@@ -13,72 +13,72 @@
     "introduction": "A virtual laboratory is a tool for distance learning and/or experimentation that allows people to share knowledge, data, voice, video, tools, and many other resources. It provides a suitable environment to extend, improve, integrate, refine, and assist the learning and/or experimentation process of many subjects, thus contributing to an increase of the effectiveness of scientific research and widening the use of scarce or costly equipments. This project is an initiative of Ministry of Human Resource Department under National Mission on Education through ICT.",
     "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Simple Drawing Board	",
+      "short-name": "simple-drawing-board",
+      "repo": "https://github.com/virtual-labs/exp-simple-drawing-board-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Position Analysis of a 4 Bar RRPR Grashofian Inverted Slider Crank Mechanism",
+      "short-name": "rrpr-inverted-slider-crank",
+      "repo": "https://github.com/virtual-labs/exp-rrpr-inverted-slider-crank-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Position Analysis of a 4 Bar RRRR Grashofian Double Crank Mechanism",
+      "short-name": "rrrr-double-crank",
+      "repo": "https://github.com/virtual-labs/exp-rrrr-double-crank-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Position Analysis of a 4 Bar RRRR Grashofian Crank Rocker Mechanism",
+      "short-name": "rrrr-crank-rocker",
+      "repo": "https://github.com/virtual-labs/exp-rrrr-crank-rocker-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Position Analysis of a 4 Bar RRRR Grashofian Double Rocker Mechanism",
+      "short-name": "rrrr-double-rocker",
+      "repo": "https://github.com/virtual-labs/exp-rrrr-double-rocker-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Position Analysis of a 4 Bar RRRR Non Grashofian Double Rocker Mechanism",
+      "short-name": "rrrr-non-grashofian-double-rocker",
+      "repo": "https://github.com/virtual-labs/exp-rrrr-non-grashofian-double-rocker-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Position Analysis of a 4 Bar RRRP Grashofian Slider Crank Mechanism",
+      "short-name": "rrrp-slider-crank",
+      "repo": "https://github.com/virtual-labs/exp-rrrp-slider-crank-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Position Analysis of a 4 Bar RRPR Grashofian Inverted Slider Crank Rocker Mechanism",
+      "short-name": "rrpr-inverted-slider-crank-rocker",
+      "repo": "https://github.com/virtual-labs/exp-rrpr-inverted-slider-crank-rocker-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Position Analysis of a 4 Bar RPRR Grashofian Inverted Slider Crank Mechanism",
+      "short-name": "rprr-slider-crank",
+      "repo": "https://github.com/virtual-labs/exp-rprr-slider-crank-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Position Analysis of a 4 Bar RPRR Grashofian Inverted Slider Crank Rocker Mechanism",
+      "short-name": "rprr-slider-crank-rocker",
+      "repo": "https://github.com/virtual-labs/exp-rprr-slider-crank-rocker-iitkgp",
       "tag": "v1.0.0",
       "deploy": true
     }
