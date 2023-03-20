@@ -84,12 +84,12 @@
     }
     ],
     "targetAudience": {
-        "UG": ["Mechanical Engineering"],
-        "PG": ["Mechanical Engineering"]
+        "UG": ["Under Graduate students of B.Tech. (Mechanical Engineering)"],
+        "PG": ["Post Graduate students of M.Tech.(Mechanical Engineering)"]
     },
-    "objective": "",
+    "objective": "The objective of Kinematics and Dynamics of Mechanisms Laboratory is to Study the Position Analysis of a 4 Bar RRRR, RRPR, RRRP, and RPRR.",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "The lab contents are chosen such that it covers the syllabi of the Mechanical course of various universities to a considerable extent.",
+        "universities": ["Indian Institute of Technology Kharagpur"]
     }
 }
